@@ -28,6 +28,10 @@
 ## Project setup
 
 ```bash
+$ docker-compose up -d //Pra subir o container do rabbitMQ
+```
+
+```bash
 $ npm install
 ```
 
